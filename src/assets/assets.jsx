@@ -10,12 +10,6 @@ import merch from './merch.png'
 import merch_back from './merch_back.png'
 import panda from './panda.png'
 import clogo from './clogo.png'
-import model from './model.png'
-import model2 from './model2.png'
-import model3 from './model3.png'
-import model4 from './model4.png'
-import model5 from './model5.png'
-import model6 from './model6.png'
 import exchange from './exchange.png'
 import cust_support from './cust_support.jpg'
 import returns from './returns.png'
@@ -48,14 +42,8 @@ export const assets = {
     merch,
     panda,
     clogo,
-    model,
-    model2,
     star,
     dull_star,
-    model3,
-    model4,
-    model5,
-    model6,
     exchange,
     cust_support,
     returns,
