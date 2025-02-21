@@ -5,13 +5,11 @@ import HeroSlider from './HeroSlider';
 const Hero = () => {
 
     const images = [
-        assets.panda,
-        assets.model,
-        assets.model2,
-        assets.model3,
-        assets.model4,
-        assets.model5,
-        assets.model6
+        assets.merch,
+        assets.merch_back,
+        assets.hoodie,
+        assets.hoodie_back,
+        assets.panda
     ];
 
   return (
